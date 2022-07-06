@@ -10,23 +10,23 @@ global.APIs = {
 	zenz: 'https://zenzapis.xyz', 
 }
 global.APIKeys = {
-	'https://zenzapi.xyz': '805a6c3fa9', //Apikey Premium
+	'https://zenzapi.xyz': '539ca09d73', //Apikey Premium
 }
 global.Prefix = 'Multi'
-global.meki = '6285860486479'
-global.ownerNumber = '6285860486479'
-global.botname = 'Ｃｈｉｔａｎｄａ - ＭＤ' 
-global.ownername = '𝙸 𝙰𝚖 𝙺𝚒𝚉𝚊𝚔𝚒𝚇𝙳'
-global.owner = ['6285860486479'] 
-global.pemilik = ['6285860486479'] 
-global.premium = ['6285860486479'] 
-global.pengguna = 'syamsul fajri'
-global.botnma = 'Riski BOTZ' 
-global.ownernma = 'Syamsul fajri'
-global.packname = 'Syamsul fajri' 
-global.author = 'Ｃｈｉｔａｎｄａ - ＭＤ' 
+global.meki = '6281233700056'
+global.ownerNumber = '6281233700056'
+global.botname = 'Xyle -MD' 
+global.ownername = 'CakkaXz'
+global.owner = ['6281233700056'] 
+global.pemilik = ['6281233700056'] 
+global.premium = ['6281233700056'] 
+global.pengguna = 'Cakka Mtp'
+global.botnma = 'Xyle - MD' 
+global.ownernma = 'CakkaXz'
+global.packname = 'Xyle - Bot' 
+global.author = 'Xyle - MD' 
 global.sessionName = 'session'
-global.prefa = ['#','!','/','']
+global.prefa = ['#','!','/','.']
 global.sp = '» ' 
 global.mess = {
     success: 'Berhasil.',
@@ -49,7 +49,7 @@ global.limitawal = {
     free: 100
 }
 
-global.thumb = fs.readFileSync('./media/zaki.jpg')
+global.thumb = fs.readFileSync('./media/xyle.jpg')
 global.fakeImg = fs.readFileSync('./media/fake.jpg')
 
 let file = require.resolve(__filename)
